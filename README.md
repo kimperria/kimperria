@@ -1,8 +1,12 @@
 ## Well, hello there <img src="./handwave.gif" width="30px" height="30px">
 
-I am Kimani John, a Software Engineer/FullStack Developer/Cross Platform developer. I write code as frequently as I can.
+My name is Kimani John, a Software Engineer/FullStack Developer/Cross Platform developer.
 
-I am experimenting 🔭 with new technologies to build some interesting stuff :rocket: :hammer_and_wrench: that make our lives easier.
+I'm a curious mind, lifelong learner, tech enthusiast devoted problem solver and I write code as frequently as I can.
+
+Over the years, I've picked up skill-sets in engineering, people and product management that have positively impacted teams across various stages of software development life-cycle.
+
+Constantly experimenting 🔭 with new technologies to build some interesting stuff :rocket: :hammer_and_wrench: that make our lives easier.
 
 ## 🔧 Technologies & Tools
 
@@ -45,7 +49,23 @@ I am experimenting 🔭 with new technologies to build some interesting stuff :r
 
 <hr/>
 
-Connect with moi:
+## Interests
+
+Away from my PC and sprints, you'll find me on nature trails, running, swimming, jamming at live concerts, or deep into sports banter.
+
+- 💬 Ask me about tech stuff, music, money, life, sports, the universe.
+
+- ⚡ Fun fact: ​I​ ​pla​y​ ​t​he​ :guitar: on my spare time, :soccer:, 🎮 & enjoy the outdoors 🌴
+
+<br />
+
+<hr/>
+
+## Connect with moi
+
+If you're working on meaningful products or just want to riff on Fin Tech, business, science and geography. I'd love to connect:
+
+- 📫 How to reach me: Preferrably on LinkedIn or via my email, if thee can find it :smile:
 
 [<img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kimani-john/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@kimperria/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,6 +75,3 @@ et cetera et cetera:
 
 - 🔭 Exploring automation, websites, systems, low level APIs, apps, etc, etc :sweat_smile:
 - 👯 Looking to collaborate on interesting projects that push the limits
-- 💬 Ask me about tech stuff, music, money, life, sports, the universe.
-- 📫 How to reach me: Preferrably on LinkedIn or via my email, if thee can find it :smile:
-- ⚡ Fun fact: ​I​ ​pla​y​ ​t​he​ :guitar: on my spare time, :soccer:, 🎮 & enjoy the outdoors 🌴
