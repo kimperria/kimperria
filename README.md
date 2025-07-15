@@ -59,6 +59,16 @@ Away from my PC and sprints, you'll find me on nature trails, running, swimming,
 
 <br />
 
+<hr />
+
+### Feature projects
+
+The table below shows some of the projects that I am either actively building, contributing or maintaining.
+
+| Project Name                                      | Scope/Problem Statement                                              | Version/Stage |
+| ------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
+| [shobillgroup.com](https://www.shobillgroup.com/) | Web based application integrating CRM and e-commerce functionalities | Maintenance   |
+
 <hr/>
 
 ## Connect with moi
